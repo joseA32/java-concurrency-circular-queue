@@ -9,7 +9,7 @@ public class Cola implements ICola {
 
     private int head;
     private int tail;
-    private final int capacidad; // Usamos final como en clase porque la capacidad no cambia
+    private final int capacidad;
     private int numelementos;
     private Object[] datos;
 

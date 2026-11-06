@@ -12,7 +12,7 @@ public class UsaCola {
         // Creamos una cola con capacidad para 4 elementos
         Cola c = new Cola(4); // También puedes poner: ICola c = new Cola(4);
         
-        // Inicializamos la semilla aleatoria con el tiempo actual como en clase
+
         Random r = new Random(System.currentTimeMillis());
 
         // Bucle con 10 iteraciones
